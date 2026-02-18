@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Chère amie",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-18T02:19:27.513461Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chère amie (Toutes mes excuses)",
+      "artist": "Marc Lavoine",
+      "has_synced": true,
+      "path": "select/01_Chère_amie_(Toutes_mes_excuses)_Marc_Lavoine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chère amie toutes mes excuses",
+      "artist": "Florent Pagny",
+      "has_synced": true,
+      "path": "select/02_Chère_amie_toutes_mes_excuses_Florent_Pagny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chère amie (Toutes mes excuses)",
+      "artist": "Marc Lavoine feat. Françoise Hardy",
+      "has_synced": false,
+      "path": "select/03_Chère_amie_(Toutes_mes_excuses)_Marc_Lavoine_feat._Françoise_Hardy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chère Amie (Toutes Mes Excuses",
+      "artist": "Marc Lavoine",
+      "has_synced": true,
+      "path": "select/04_Chère_Amie_(Toutes_Mes_Excuses_Marc_Lavoine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chère amie (toutes mes excuses)",
+      "artist": "Marc Lavoine en duo avec Françoise Hardy",
+      "has_synced": false,
+      "path": "select/05_Chère_amie_(toutes_mes_excuses)_Marc_Lavoine_en_duo_avec_Françoise_Hardy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chère amie",
+      "artist": "Marc Lavoine en duo avec Françoise Hardy",
+      "has_synced": false,
+      "path": "select/06_Chère_amie_Marc_Lavoine_en_duo_avec_Françoise_Hardy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chère amie (toutes mes excuses)",
+      "artist": "Lavoine, Marc en duo avec Hardy, Françoise",
+      "has_synced": false,
+      "path": "select/07_Chère_amie_(toutes_mes_excuses)_Lavoine,_Marc_en_duo_avec_Hardy,_Françoise.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chère amie",
+      "artist": "Lavoine, Marc en duo avec Hardy, Françoise",
+      "has_synced": false,
+      "path": "select/08_Chère_amie_Lavoine,_Marc_en_duo_avec_Hardy,_Françoise.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chère amie (Toutes mes excuses)",
+      "artist": "Marc Lavoine avec Françoise Hardy",
+      "has_synced": false,
+      "path": "select/09_Chère_amie_(Toutes_mes_excuses)_Marc_Lavoine_avec_Françoise_Hardy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chère Amie Toutes Mes Excuses (duo avec Françoise Hardy)",
+      "artist": "Marc Lavoine",
+      "has_synced": true,
+      "path": "select/10_Chère_Amie_Toutes_Mes_Excuses_(duo_avec_Françoise_Hardy)_Marc_Lavoine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chere Amie (Toutes Mes Excuses)",
+      "artist": "Marc Lavoine",
+      "has_synced": false,
+      "path": "select/11_Chere_Amie_(Toutes_Mes_Excuses)_Marc_Lavoine.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chère amie",
+      "artist": "Marc Lavoine",
+      "has_synced": true,
+      "path": "select/12_Chère_amie_Marc_Lavoine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chère amie (Toutes mes excuses)",
+      "artist": "Marc Lavoine",
+      "has_synced": false,
+      "path": "select/13_Chère_amie_(Toutes_mes_excuses)_Marc_Lavoine.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chère amie toutes mes excuses (version album)",
+      "artist": "Florent Pagny",
+      "has_synced": true,
+      "path": "select/14_Chère_amie_toutes_mes_excuses_(version_album)_Florent_Pagny.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chère amie",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_Chère_amie_HACHI.txt"
+    }
+  ]
+}
